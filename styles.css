@@ -26,7 +26,7 @@ body {
 }
 
 table {
-  margin-top: 25px;
+  margin-top: 90px;
   border: 2px solid #000000;
 }
 
@@ -255,8 +255,8 @@ input.random-number {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin-top: 7px;
-  margin-bottom:10px;
+  margin-top: 30px;
+  margin-bottom:100px;
   cursor: pointer;
   border-radius: 8px;
   transition-duration: 0.4s;
